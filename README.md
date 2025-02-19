@@ -1,8 +1,4 @@
----
-title: "Solución al reto 'Single Price Grid Component'"
----
-
-# Frontend Mentor - Solución al reto "Single Price Grid Component"
+# Solución al reto "Single Price Grid Component"
 
 Esta es mi solución al reto [Single Price Grid Component en Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Este tipo de desafíos me ayuda a mejorar mis habilidades en desarrollo web al construir proyectos con diseños realistas.
 
