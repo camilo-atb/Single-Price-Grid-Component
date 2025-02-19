@@ -32,7 +32,7 @@ Aquí muestro el resultado del proyecto en una pantalla de escritorio:
 
 ### Enlace al proyecto
 
-- URL del proyecto publicado: [Aquí estará el enlace del sitio en GitHub Pages](https://your-solution-url.com)
+- URL del proyecto publicado: [Aquí estará el enlace del sitio en GitHub Pages](https://camilo-atb.github.io/Single-Price-Grid-Component/)
 
 ## Proceso de desarrollo
 
